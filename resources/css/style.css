@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    width: 100%;
 }
 
 * {
@@ -31,4 +32,8 @@ a {
 p, footer {
     color: gray;
     font-size: 21px;
+}
+
+footer {
+    align-self: flex-end;
 }
